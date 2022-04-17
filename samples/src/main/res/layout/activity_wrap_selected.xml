@@ -15,6 +15,7 @@
             app:layout_constraintTop_toTopOf="parent">
 
             <com.joshowen.wrap_content_tablayout.WrapContentTabLayout
+                android:id="@+id/tab_layout"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/purple_500"
